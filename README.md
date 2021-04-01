@@ -1,8 +1,10 @@
+------
+
 :video_game: Game Programmer / Studying at U-tad :video_game:
 
 ------
 
-My portfolio
+Portfolio
 ------
 [https://nachomc.github.io/portfolio/](https://nachomc.github.io/portfolio/)
 
