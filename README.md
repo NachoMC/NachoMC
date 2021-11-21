@@ -1,6 +1,6 @@
 ------
 
-:video_game: Game Programmer / Studying at U-tad :video_game:
+:video_game: Software Engineer / Game Programmer :video_game:
 
 ------
 
