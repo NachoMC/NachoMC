@@ -1,8 +1,3 @@
-------
-
-:video_game: Software Engineer / Game Programmer :video_game:
-
-------
 
 Portfolio
 ------
